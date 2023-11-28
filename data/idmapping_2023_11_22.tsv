@@ -1,0 +1,16 @@
+From	Entry	Entry Name	Protein names	Gene Names
+MARCHF2	Q9P0N8	MARH2_HUMAN	E3 ubiquitin-protein ligase MARCHF2 (EC 2.3.2.27) (Membrane-associated RING finger protein 2) (Membrane-associated RING-CH protein II) (MARCH-II) (RING finger protein 172) (RING-type E3 ubiquitin transferase MARCHF2)	MARCHF2 MARCH2 RNF172 HSPC240
+MARCHF5	Q9NX47	MARH5_HUMAN	E3 ubiquitin-protein ligase MARCHF5 (EC 2.3.2.27) (Membrane-associated RING finger protein 5) (Membrane-associated RING-CH protein V) (MARCH-V) (Mitochondrial ubiquitin ligase) (MITOL) (RING finger protein 153) (RING-type E3 ubiquitin transferase MARCHF5)	MARCHF5 MARCH5 RNF153
+MARCHF6	O60337	MARH6_HUMAN	E3 ubiquitin-protein ligase MARCHF6 (EC 2.3.2.27) (Doa10 homolog) (Membrane-associated RING finger protein 6) (Membrane-associated RING-CH protein VI) (MARCH-VI) (Protein TEB-4) (RING finger protein 176) (RING-type E3 ubiquitin transferase MARCHF6)	MARCHF6 KIAA0597 MARCH6 RNF176 TEB4
+MARCHF7	Q9H992	MARH7_HUMAN	E3 ubiquitin-protein ligase MARCHF7 (EC 2.3.2.27) (Axotrophin) (Membrane-associated RING finger protein 7) (Membrane-associated RING-CH protein VII) (MARCH-VII) (RING finger protein 177) (RING-type E3 ubiquitin transferase MARCHF7)	MARCHF7 AXOT MARCH7 RNF177
+NCBP2AS2	Q69YL0	NCAS2_HUMAN	Protein NCBP2AS2 (Hypoxia-induced angiogenesis regulator) (NCBP2 antisense gene protein 2)	NCBP2AS2 HIAR
+SEP15	O60613	SEP15_HUMAN	Selenoprotein F (15 kDa selenoprotein)	SELENOF SEP15
+SEPT1	Q8WYJ6	SEPT1_HUMAN	Septin-1 (LARP) (Peanut-like protein 3) (Serologically defined breast cancer antigen NY-BR-24)	SEPTIN1 DIFF6 PNUTL3 SEPT1
+SEPT10	Q9P0V9	SEP10_HUMAN	Septin-10	SEPTIN10 SEPT10
+SEPT11	Q9NVA2	SEP11_HUMAN	Septin-11	SEPTIN11 SEPT11
+SEPT2	Q15019	SEPT2_HUMAN	Septin-2 (Neural precursor cell expressed developmentally down-regulated protein 5) (NEDD-5)	SEPTIN2 DIFF6 KIAA0158 NEDD5 SEPT2
+SEPT5	Q99719	SEPT5_HUMAN	Septin-5 (Cell division control-related protein 1) (CDCrel-1) (Peanut-like protein 1)	SEPTIN5 PNUTL1 SEPT5
+SEPT6	Q14141	SEPT6_HUMAN	Septin-6	SEPTIN6 KIAA0128 SEP2 SEPT6
+SEPT7	Q16181	SEPT7_HUMAN	Septin-7 (CDC10 protein homolog)	SEPTIN7 CDC10 SEPT7
+SEPT8	Q92599	SEPT8_HUMAN	Septin-8	SEPTIN8 KIAA0202 SEPT8
+SEPT9	Q9UHD8	SEPT9_HUMAN	Septin-9 (MLL septin-like fusion protein MSF-A) (MLL septin-like fusion protein) (Ovarian/Breast septin) (Ov/Br septin) (Septin D1)	SEPTIN9 KIAA0991 MSF SEPT9
