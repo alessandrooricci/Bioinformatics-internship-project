@@ -29,5 +29,7 @@ box_log <- boxplot(logaritmic_data)
 # BOx plot with normalized values
 box_norm <- boxplot(normalized_data)
 
+write_tsv(data_normalized, "./data/dataset_normalized.tsv")
+
 
 
