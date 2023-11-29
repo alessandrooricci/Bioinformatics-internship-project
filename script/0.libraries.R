@@ -7,3 +7,5 @@ library(clusterProfiler)
 library(AnnotationDbi)
 library(org.Hs.eg.db)
 library(dplyr)
+library(scales)
+
