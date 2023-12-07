@@ -17,7 +17,7 @@ predM = init$predictorMatrix
 meth[1:length(meth)] <- "norm"
 
 # Run the multiple (m=5) imputation
-imputed = mice(proteomics_imp, method= meth , predictorMatrix=predM, m=5)
+imputed = mice(proteomics_imp, method = meth , predictorMatrix = predM, m = 5)
 
 # Create a dataset after imputation
 data_imputed <- complete(imputed)
@@ -31,3 +31,7 @@ data_imputed <- bind_cols(data_imputed, proteomics_norm %>%
 # Save imputed data frame
 write_tsv(data_imputed, "./data/dataset_cml_imputed.tsv")
 
+# Imputed data boxplot
+boxplot_imp <- data_imputed %>%
+  dplyr::select(-UNIPROT, -Genes)
+boxplot(boxplot_imp) 
